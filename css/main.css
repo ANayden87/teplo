@@ -582,7 +582,10 @@ input {
     height: 50vh;
   }
   .banner h1 {
-    font-size: 6rem;
+    font-size: 5rem;
+  }
+  .banner p {
+    font-size: 2.5rem;
   }
   .payment_item label {
     font-size: 2rem;
