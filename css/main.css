@@ -579,13 +579,13 @@ input {
     font-size: 6px;
   }
   .banner {
-    height: 50vh;
+    height: 40vh;
   }
   .banner h1 {
     font-size: 5rem;
   }
   .banner p {
-    font-size: 1.5rem;
+    font-size: 2rem;
   }
   .payment_item label {
     font-size: 2rem;
